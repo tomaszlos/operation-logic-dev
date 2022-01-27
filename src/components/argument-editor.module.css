@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info_msg {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+  opacity: 0.5;
+}

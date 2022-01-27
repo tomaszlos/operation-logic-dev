@@ -1,0 +1,16 @@
+.operation_wrapper {
+  display: block;
+}
+
+.item_wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+
+.info_msg {
+  padding: 8px 16px 8px 24px;
+  font-weight: bolder;
+  opacity: 0.5;
+}
